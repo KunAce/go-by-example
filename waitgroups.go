@@ -30,4 +30,11 @@ func main() {
 
 	wg.Wait()
 
+	/* Todo:
+	1. rate-limiting
+	2. atomic-counter
+	3. mutual exclusion
+	4. stateful-goroutines
+	*/
+
 }
